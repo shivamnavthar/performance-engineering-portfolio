@@ -1,2 +1,4 @@
-# performance-engineering-portfolio
-My personal work in field of performance engineering with related tools, projects and notes.
+# About Me
+Hi, I’m Shivam! I'm a Performance Testing engineer learning to become a Performance Architect.  
+This portfolio will track my learning journey, tools, experiments, and use cases.
+
